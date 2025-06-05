@@ -2,21 +2,32 @@
 
 <img width="1223" alt="Screenshot 2025-05-29 at 2 18 03 PM" src="https://github.com/user-attachments/assets/1ba30436-6fe7-476a-837f-b95797f5730c" /><br>
 
-Developed an interactive Sales & Customer Funnel Report for a Shopify e-commerce platform using Power BI. The dashboard provides end-to-end visibility into business performance by tracking critical KPIs such as net sales, average order value, customer segmentation (single vs. repeat buyers), repeat rate, and lifetime value.
+# Power BI Dashboard: Sales & Customer Funnel Analysis
 
-# Key visualizations include:
+## 📌 Problem Statement
+An e-commerce client sought to understand sales performance and customer behavior across product categories, regions, and customer types to enhance marketing ROI and improve retention.
 
-Sales Trends Over Time
+## 🧠 Business Objective
+- Track KPIs like Net Sales, Quantity Sold, AOV, CLV, and Repeat Rate
+- Segment customers into Repeat vs. One-Time buyers
+- Identify high-performing states, provinces, and product types
+- Enable self-service analytics through interactive visuals
 
-Geographic Sales Distribution (Province & City Level)
+## 🛠 Tools & Technologies
+- **Power BI** (Visualizations, DAX, Data Modeling)
+- **Power Query** (Data Cleaning & Transformation)
+- **Excel** (Pre-processing, initial insights)
+- **CSV/Shopify Exported Data**
 
-Sales by Payment Gateway (Shopify, PayPal, Amazon, Gift Card)
+## 📊 Key Features
+- Dynamic slicers for Province, Measure, Gateway
+- Trend analysis over time with YoY comparison
+- Lifetime Value (LTV) and Purchase Frequency metrics
+- Drill-down capability by customer segments
 
-Sales by Product Type
+## 🔍 Business Outcome
+- Enabled marketing team to retarget high-LTV customers
+- Revealed that 46.02% of customers were repeat buyers
+- Improved visibility into sales by region and category
 
-Customer Metrics: Purchase frequency, total customers, repeat rate
-
-Dynamic Filters: Measure, Gateway, Province
-
-This project empowered stakeholders to derive actionable insights, enhance customer retention strategies, and optimize regional and product-level sales performance.
-
+> 📂 please find `.pbix` file and visuals.
